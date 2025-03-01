@@ -1,0 +1,37 @@
+{
+    "publications": [
+      {
+        "title": "Towards Over-Canopy Autonomous Navigation: Crop-Agnostic LiDAR-Based Crop-Row Detection in Arable Fields",
+        "authors": [
+          { "name": "Ruiji Liu", "link": "https://ruiji-liu.github.io", "isCoFirst": true },
+          { "name": "Francisco Yandun" },
+          { "name": "George Kantor" }
+        ],
+        "venue": "arXiv, Under review (ICRA 2025)",
+        "year": "2024",
+        "image": "assets/images/crop-row-detection.jpg",
+        "links": {
+          "paper": "https://arxiv.org/abs/2403.17774",
+          "code": "https://github.com/Kantor-Lab/LiDAR_CropRowDetection",
+          "project": "https://ruiji-liu.github.io/crop_row_detection.github.io/"
+        }
+      },
+      {
+        "title": "Evaluation of Endoscope Control Assessment System for Measuring",
+        "authors": [
+          { "name": "Saira Hussain" },
+          { "name": "Yuqi Zhou" },
+          { "name": "Ruiji Liu" },
+          { "name": "Eric Pauli" },
+          { "name": "Jason Moore" }
+        ],
+        "venue": "Design of Medical Devices Conference",
+        "year": "2022",
+        "image": "assets/images/endoscope.jpg",
+        "links": {
+          "paper": "https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2022/84815/V001T11A009/1140655"
+        }
+      }
+    ]
+  }
+  
